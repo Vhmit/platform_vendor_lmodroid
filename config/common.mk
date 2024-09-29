@@ -198,6 +198,8 @@ PRODUCT_PRODUCT_PROPERTIES += \
 PRODUCT_PACKAGES += \
     Etar \
     GameSpace \
+    LMOFreeform \
+    LMOFreeformSidebar \
     LMOPdfViewer \
     ParallelSpace \
     Recorder \
