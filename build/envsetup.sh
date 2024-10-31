@@ -86,7 +86,7 @@ function breakfast()
                 variant="userdebug"
             fi
 
-            lunch lmodroid_$target-$variant
+            lunch $CUSTOMER_BUILD_PREFIX$target-$variant
         fi
     fi
     return $?
