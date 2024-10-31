@@ -11,3 +11,10 @@ prebuilt_etc_xml {
     src: "etc/sensitive_pn.xml",
     schema: ":spn-schema",
 }
+
+prebuilt_etc_xml {
+    name: "lmodroid-component-overrides.xml",
+    product_specific: true,
+    src: "etc/lmodroid-component-overrides.xml",
+    sub_dir: "sysconfig",
+}
