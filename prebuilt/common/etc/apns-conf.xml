@@ -1300,6 +1300,7 @@
   <apn carrier="Vodafone IMS" mcc="268" mnc="01" apn="ims" type="ims" protocol="IP" roaming_protocol="IP" network_type_bitmask="1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20" />
   <apn carrier="IMS" mcc="268" mnc="02" apn="ims" type="ims" protocol="IPV4V6" network_type_bitmask="1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20" />
   <apn carrier="IMS" mcc="268" mnc="02" apn="ims" type="ims" protocol="IPV4V6" roaming_protocol="IPV4V6" network_type_bitmask="1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20" />
+  <apn carrier="DIGI PT" mcc="268" mnc="02" apn="internet" authtype="1" type="default,supl" />
   <apn carrier="NOS/WTF Internet" mcc="268" mnc="03" apn="umts" type="default,supl,dun" />
   <apn carrier="NOS MMS" mcc="268" mnc="03" apn="mms" mmsc="http://mmsc:10021/mmsc" mmsproxy="62.169.66.5" mmsport="8799" authtype="1" type="mms" />
   <apn carrier="WTF MMS" mcc="268" mnc="03" apn="umts" mmsc="http://mmsc:10021/mmsc" mmsproxy="62.169.66.5" mmsport="8799" authtype="1" type="mms" />
