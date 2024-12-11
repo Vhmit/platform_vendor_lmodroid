@@ -66,8 +66,7 @@ PRODUCT_PACKAGES += \
     IconShapeSquircleOverlay \
     IconShapeTaperedRectOverlay \
     IconShapeTeardropOverlay \
-    IconShapeVesselOverlay \
-    NavigationBarMode2ButtonOverlay
+    IconShapeVesselOverlay
 
 # DesktopMode
 ifneq ($(TARGET_WITHOUT_DESKTOPMODE), true)
