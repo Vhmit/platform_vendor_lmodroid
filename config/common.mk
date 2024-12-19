@@ -196,11 +196,11 @@ PRODUCT_PRODUCT_PROPERTIES += \
 
 # System apps
 PRODUCT_PACKAGES += \
+    Camelot \
     Etar \
     GameSpace \
     LMOFreeform \
     LMOFreeformSidebar \
-    LMOPdfViewer \
     ParallelSpace \
     Recorder \
     Seedvault
