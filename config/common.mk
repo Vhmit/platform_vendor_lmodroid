@@ -68,6 +68,10 @@ PRODUCT_SYSTEM_DEFAULT_PROPERTIES += \
     lmodroid.updater.allow_major_update=true
 endif
 
+# Support Credential Manager
+PRODUCT_PACKAGES += \
+    android.software.credentials.prebuilt.xml
+
 # Some permissions
 PRODUCT_COPY_FILES += \
     vendor/lmodroid/config/permissions/privapp-permissions-lmodroid.xml:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/permissions/privapp-permissions-lmodroid.xml
